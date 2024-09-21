@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    font-size: 1rem;
+}
+
+p{
+ margin-bottom: 50px;
+}
+
+
+.Motivation {
+    width: 50%; 
+    height: 50%;
+    border: 8px solid white ;
+    margin-top: 80px;
+    margin-left: 10px;
+    
+}
+
+.The.Poster{
+    font-family: "Inria Sans", sans-serif;
+    text-align: center; 
+    color: white;     
+}
+
+
